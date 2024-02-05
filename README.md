@@ -23,10 +23,10 @@ A modern chat application developed for Android using Jetpack Compose, Firebase,
 
 ## Screenshots
 
-| ![Sign Up](https://raw.githubusercontent.com/SatyamkrJha85/Just_Meet-Chat-Application-Using-Jetpack_Compose/main/assets/111700337/b9a2abb9-1c2f-46cf-939e-bada6da63a5b.png) | *Demo 1 |
+| ![Demo 1](https://raw.githubusercontent.com/SatyamkrJha85/Just_Meet-Chat-Application-Using-Jetpack_Compose/main/assets/111700337/b9a2abb9-1c2f-46cf-939e-bada6da63a5b.png) | *Sign Up Page* |
 | --- | --- |
-| ![Chat Screen](https://raw.githubusercontent.com/SatyamkrJha85/Just_Meet-Chat-Application-Using-Jetpack_Compose/main/assets/111700337/053959b7-7e8f-4976-8433-eaf863025762.png) | *Demo 2* |
-| ![Profile Edit](https://raw.githubusercontent.com/SatyamkrJha85/Just_Meet-Chat-Application-Using-Jetpack_Compose/main/assets/111700337/59019f5b-b25e-42d1-a1cc-8999bacd2dc1.png) | *Demo 3* |
+| ![Demo 2](https://raw.githubusercontent.com/SatyamkrJha85/Just_Meet-Chat-Application-Using-Jetpack_Compose/main/assets/111700337/053959b7-7e8f-4976-8433-eaf863025762.png) | *Chat Screen* |
+| ![Demo 3](https://raw.githubusercontent.com/SatyamkrJha85/Just_Meet-Chat-Application-Using-Jetpack_Compose/main/assets/111700337/59019f5b-b25e-42d1-a1cc-8999bacd2dc1.png) | *Profile Edit Page* |
 
 
 ## Prerequisites
